@@ -1,0 +1,21 @@
+# 虚拟环境
+.venv/
+venv/
+conda/
+
+# python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 日志、会话保存
+conversations/
+*.log
+
+# 密钥（防止API密钥误上传！）
+.env
+
+# 编辑器
+.vscode/
+.idea/
